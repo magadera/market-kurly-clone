@@ -1,0 +1,6 @@
+framework module Pods_Kurly_Clone {
+  umbrella header "Pods-Kurly_Clone-umbrella.h"
+
+  export *
+  module * { export * }
+}
